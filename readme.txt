@@ -1,13 +1,13 @@
-=== Hello Dolly ===
+=== Ahoy Dolly ===
 Contributors: matt, wordpressdotorg
 Stable tag: 1.7.2
 Tested up to: 6.1
 Requires at least: 4.6
 
-This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong.
+The "Hello Dolly!" plugin but print insults in a Pirate way! Arrrrgh
 
 == Description ==
 
-This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
+The "Hello Dolly!" plugin but print insults in a Pirate way! When activated you will randomly see an insult from <cite>[Pirate Monkeyness](https://pirate.monkeyness.com/api.html)</cite> in the upper right of your admin screen on every page.
 
-Thanks to Sanjib Ahmad for the artwork.
+Thanks to [Tim Moses](https://timmoses.com/) for the API.
