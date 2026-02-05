@@ -8,6 +8,6 @@ The "Hello Dolly!" plugin but print insults in a Pirate way! Arrrrgh
 
 == Description ==
 
-The "Hello Dolly!" plugin but print insults in a Pirate way! When activated you will randomly see an insult from <cite>[Pirate Monkeyness](https://pirate.monkeyness.com/api.html)</cite> in the upper right of your admin screen on every page.
+The "Hello Dolly!" plugin but print insults in a Pirate way! When activated you will randomly see an insult from <cite>Pirate Monkeyness (https://pirate.monkeyness.com/)</cite> in the upper right of your admin screen on every page.
 
-Thanks to [Tim Moses](https://timmoses.com/) for the API.
+Thanks to Tim Moses (https://timmoses.com/) for the API.
