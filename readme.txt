@@ -1,5 +1,5 @@
 === Ahoy Dolly ===
-Contributors: matt, wordpressdotorg
+Contributors: matt, wordpressdotorg, marchrius
 Stable tag: 1.7.2
 Tested up to: 6.1
 Requires at least: 4.6
